@@ -1,0 +1,81 @@
+body {
+    background-image: url("https://cdn.discordapp.com/attachments/1154524493100884058/1155910624354766889/bg.jpg");
+    background-size: cover;    
+}
+.Rydmo {
+    font-family: Tahoma;
+    
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1000%;
+    color: white !important;
+    text-shadow: 0 1px 0 #999, 0 2px 0 #999999, 0 3px 0 #888, 0 4px 0 #898989, 0 5px 0 #777, 0 6px 1px rgba(0,0,0,.2), 0 0 5px rgba(0,0,0,.2), 0 1px 3px rgba(0,0,0,.4), 0 3px 5px rgba(0,0,0,.3), 0 5px 10px rgba(0,0,0,.35), 0 10px 10px rgba(0,0,0,.3), 0 20px 20px rgba(0,0,0,.25);
+    left: 50px;
+    color: #fff;
+    
+   text-align: center;
+  
+    text-shadow:
+     
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      
+      
+}
+
+.made {
+  font-family: Tahoma;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 100%;
+  color: #fff;
+  left: 50px;
+  text-shadow: 0 1px 0 #999, 0 2px 0 #999999, 0 3px 0 #888, 0 4px 0 #898989, 0 5px 0 #777, 0 6px 1px rgba(0,0,0,.2), 0 0 5px rgba(0,0,0,.2), 0 1px 3px rgba(0,0,0,.4), 0 3px 5px rgba(0,0,0,.3), 0 5px 10px rgba(0,0,0,.35), 0 10px 10px rgba(0,0,0,.3), 0 20px 20px rgba(0,0,0,.25);
+}
+
+
+
+.Social {
+    font-family: "Oswald", Helvetica, sans-serif;
+    
+    font-style: italic;
+    font-weight: bold;
+    font-size: 100%;
+    color: white !important;
+    left: 50px;
+    color: #fff;
+   text-align: center;
+  
+    text-shadow:
+     
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,   
+}
+
+.sociald {
+  color: #eee;
+  margin: 0 15px;
+  font-size: 30px;
+  border: 3px solid rgba(0,0,0,0.2);
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  right: 40px;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition-duration: 0.2s;
+  background: rgba(0,0,0,0.2);
+}
+
+.footer {
+  text-align: center;
+  padding-top: 20%;
+  
+}
+.social {
+    size: 16px
+    background-color: #white;
+}
